@@ -1,0 +1,15 @@
+.Table-Home {
+    width: 800px;
+}
+
+.Table-Value {
+    margin: .2rem 1rem;
+}
+
+.Table-Value {
+    border: 1px solid rgba(0, 0, 0, .3);
+}
+
+.Table-Head {
+    border: 1px solid rgba(0, 0, 0, .3);
+}
